@@ -1,0 +1,17 @@
+INDEX VERSION 1.134+C:\DevData\JAVA\Nook_StudyStation_Final\.metadata\.plugins\org.eclipse.jdt.core
+545147548.index
+3285554036.index
+2874140125.index
+1327967141.index
+1763797415.index
+424385832.index
+1865797976.index
+3312688774.index
+583775105.index
+1551552316.index
+1850518974.index
+2993991184.index
+4148558852.index
+2368501477.index
+889916146.index
+1289204310.index
